@@ -1,0 +1,23 @@
+[
+    {"name": "Malaria", "symptoms": ["fever", "chills", "headache", "fatigue", "cough", "vomiting"]},
+    {"name": "Diabetes", "symptoms": ["increased thirst", "increased urination", "fatigue", "blurred vision", "slow healing of wounds"]},
+    {"name": "Hypertension", "symptoms": ["high blood pressure", "headache", "dizziness", "nausea"]},
+    {"name": "Typhoid", "symptoms": ["fever", "headache", "dizziness", "weakness"]},
+    {"name": "Pneumonia", "symptoms": ["fever", "cough", "chest pain", "nausea", "difficulty breathing"]},
+    {"name": "Diarrhea", "symptoms": ["loose stools", "abdominal cramps", "fe"]},
+    {"name": "Influenza", "symptoms": ["cough", "sneeze",  "sore throat", "body aches", "chills", "runny or stuffy nose"]},
+    {"name": "H pylori", "symptoms": ["fatigue", "stomach", "headache"]},
+    {"name": "High Blood Pressure", "symptoms": ["headache", "dizziness", "noze bleeding", "heart attack"]},
+    {"name": "Epilepsy", "symptoms": ["arms and legs shaking", "Unconsciousness"]},
+    {"name": "Covid 19", "symptoms": ["fatigue", "fever", "cough", "shortness of breath", "headache", "chest pain", "congestion"]},
+    {"name": "Anemia", "symptoms": ["heart palpitations", "Pallor", "headache", "Pulsatile tinnitus", "Frequent infections"]},
+    {"name": "Amebiasis", "symptoms": ["fever", "cramping", "diarrhea (sometimes with rectal bleeding)", "nausea"]},
+    {"name": "Colon Polyps", "symptoms": ["colorectal bleeding", "poop changes", "Flatulence"]},
+    {"name": "Eczema", "symptoms": ["dry skin", "itchy skin", "skin rash", "swelling", "Bumps on your skin"]},
+    {"name": "Asthma", "symptoms": ["coughing", "wheezing", "shortness of breath", "chest tightness", "difficulty sleeping"]},
+    {"name": "Heart Attack", "symptoms": ["chest pain or discomfort", "shortness of breath", "nausea", "lightheadedness", "pain in jaw, neck, or back"]},
+    {"name": "Tuberculosis", "symptoms": ["persistent cough", "chest pain", "weight loss", "fever", "night sweats", "fatigue"]},
+    {"name": "Migraine", "symptoms": ["intense headache", "nausea", "vomiting", "sensitivity to light and sound", "aura"]},
+    {"name": "Arthritis", "symptoms": ["joint pain", "swelling", "stiffness", "decreased range of motion", "fatigue"]},
+    {"name": "Acid Reflux", "symptoms": ["Backwash", "burning feeling", "Noncardiac chest pain", "Sore throat", "Nausea"]}
+]

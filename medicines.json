@@ -1,0 +1,23 @@
+{
+    "Malaria": {"medication": "Artemisinin drugs  or  Atovaquone", "dosage": "two times a day"},
+    "Diabetes": {"medication": "Insulin  or  oral hypoglycemic medication", "dosage": "three times per day"},
+    "Hypertension": {"medication": "Antihypertensive medication", "dosage": "a pill every 6 hours"},
+    "Typhoid": {"medication": "Ciproflaxcin (500mg) or  Antibiotics", "dosage": "two tablets per day"},
+    "Pneumonia": {"medication": "Panadol  or  Paracitimol (500mg)", "dosage": "two pills after each meal"},
+    "Diarrhea": {"medication": "Antibiotics" , "dosage": "once or twice daily untill it stops"},
+    "Influenza": {"medication": "Antiviral medication", "dosage": "four times a day"},
+    "H pylori": {"medication": "Troypanto", "dosage": "two pills a day for a month"},
+    "High Blood Pressure": {"medication": "Antihypertensive medication  or  Diuretic  or  Alpha - Beta blocker", "dosage": "one pill every 8 hours"},
+    "Epilepsy": {"medication": "Antiepileptic medication  or  Temporal lobes", "dosage": "N/A"},
+    "Covid 19": {"medication": "Antiviral medication  or  Oxygen therapy  or  phizer", "dosage": "two vaccine shots every two month"},
+    "Anemia": {"medication": "Erythropoietin  or  Immunosuppressants", "dosage": "after every meal"},
+    "Amebiasis": {"medication": "antibiotics", "dosage": "one pill every 6 hours"},
+    "Colon Polyps": {"medication": "remove colon polyps (polypectomy)", "dosage": "once or twice daily"},
+    "Eczema": {"medication": "skin moisturizers, topical steroids, antihistamines, or Immunosuppressant", "dosage": "once a day"},
+    "Asthma": {"medication": "Inhaled corticosteroids", "dosage": "once or twice daily"},
+    "Heart Attack": {"medication": "Nitroglycerin", "dosage": "three times a day"},
+    "Tuberculosis": {"medication": "Isoniazid  ,  Rifampin  or  Ethambutol", "dosage": "N/A"},
+    "Migraine": {"medication": "acetaminophen  ,  ibuprofen  or  aspirin", "dosage": "twice per daily"},
+    "Arthritis": {"medication": "acetaminophen  or  Corticosteroids", "dosage": "N/A"},
+    "Acid Reflux": {"medication": "Proton pump inhibitors (PPIs)", "dosage": "once daily"}
+}
